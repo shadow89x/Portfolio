@@ -1,5 +1,5 @@
 # Portfolio
-Hello every visitors and recruiters.
+Hello all visitors and recruiters.
 
 You can see all of my portfolios in my webapp here
 http://sanghoonpai.scienceontheweb.net/index.html
