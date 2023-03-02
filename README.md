@@ -8,6 +8,7 @@ This is Project only for demonstration.
 Detailed work progress or description can see in the corresponding repository in github/shadow89x
 
 1. Healthcare_Documents_Clustering_With_OCR : Transform Pdf files, preprocessing, and extract text from images. Finding optimal cluster size and do clustering documents with Kmeans clustering.
+https://github.com/shadow89x/Healthcare_Documents_Clustering_With_OCR
 
 2. 6Months_Record_Of_Hotjar : Visualizing, This was live project which converted to be fully anonymized using Faker package.
 https://github.com/shadow89x/6_months_Hotjar_Record
