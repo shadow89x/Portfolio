@@ -8,3 +8,4 @@ Detailed work progress or description can see in the corresponding repository in
 https://github.com/shadow89x/Healthcare_Documents_Clustering_With_Pytesseract_OCR
 
 2. OpenAI_DallE2_background_Image_creation : Remove Image Background using Azure Computer Vision and replace background using OpenAI DallE2 Generated Image.
+https://github.com/shadow89x/OpenAI_Vectorized_Image_Search
