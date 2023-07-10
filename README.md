@@ -20,6 +20,10 @@ This project leverages Azure Computer Vision Embeddings to identify the image wi
 This project involves transforming PDF files, preprocessing, and extracting text from images. Then, it finds the optimal cluster size and clusters the documents using KMeans clustering.
 - **Repository**: [Check it here](https://github.com/shadow89x/Healthcare_Documents_Clustering_With_Pytesseract_OCR)
 
-### 4. ☁️ Microsoft-Azure-Resource-Compendium
-A comprehensive resource guide for working with Microsoft Azure. 
+### 4. 💬 (Data Analysis) Amazon Review Analysis
+This notebook is designed for the analysis of Amazon review data, aiming to identify patterns in customer reviews using NLP techniques and visualization.
+- **Repository**: [Check it here](https://github.com/shadow89x/Amazon_review_analysis)
+
+### 5. ☁️ Microsoft-Azure-Resource-Compendium
+A comprehensive resource guide for working with Microsoft Azure.
 - **Repository**: [Check it here](https://github.com/shadow89x/Microsoft-Azure-Resource-Compendium)
